@@ -2,33 +2,33 @@
 
 ## ELECTRONICS
 
-	- [ESPHome](ESPHome.md)
-	- [Blynk](blynk.md)
-	- [Electronic Components](electronic-components.md)
-	- [Home Assistant](home-assistant.md)
-	- [Khadas](khadas.md)
-	- [Wemos D1 Mini](wemos-d1-mini.md)
+- [ESPHome](ESPHome)
+- [Blynk](blynk)
+- [Electronic Components](electronic-components)
+- [Home Assistant](home-assistant)
+- [Khadas](khadas)
+- [Wemos D1 Mini](wemos-d1-mini)
 
 ## SOLAR
 
-    - [Solar About Lithium](solar-about-lithium.md)
-    - [Solar Equipment](solar-equipment.md)
-    - [Solar Panel Facts](solar-panel-facts.md)
+- [solar About Lithium](solar-about-lithium)
+- [Solar Equipment](solar-equipment)
+- [Solar Panel Facts](solar-panel-facts)
 
 ## CLIENT WORK
-    - [Solar Jae and Celia](solar-jae-and-celia.md)
+- [Solar Jae and Celia](solar-jae-and-celia)
 
 ## CODING RELATED
-    - [Neorg Notes](neorg-notes.md)
-    - [VimWiki Notes](VimWiki Notes.md)
-    - [Digital Security](Digital Security.md)
+- [Neorg Notes](neorg-notes)
+- [VimWiki Notes](vimwiki-notes)
+- [Digital Security](digital-security)
 
 ## CABIN INFRASTRUCTURE
 
-    - [Cabin Plumbing](Cabin Plumbing)
+- [Cabin Plumbing](cabin-plumbing)
 
 ## PURCHASE RESEARCH
 
-- [Linux Laptops](Linux Laptops.md)
+- [Linux Laptops](linux-laptops)
 
 

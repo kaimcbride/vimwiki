@@ -2,11 +2,11 @@
 
 ## Usage Tracking
 
-- [Field Notes Log](field-notes-log.md) 
-- [Propane Tracking](propane-tracking.md)
-- [Trucky Maintenance](trucky-maintenance.md)
+- [Field Notes Log](field-notes-log) 
+- [Propane Tracking](propane-tracking)
+- [Trucky Maintenance](trucky-maintenance)
     
     
 ## GOALS
 
-- [Year](Year.md)
+- [Year](Year)
