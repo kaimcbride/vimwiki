@@ -2,7 +2,7 @@
 
 ## ELECTRONICS
 
-- [ESPHome](ESPHome)
+- [ESPHome](esphome-notes)
 - [Blynk](blynk)
 - [Electronic Components](electronic-components)
 - [Home Assistant](home-assistant)
