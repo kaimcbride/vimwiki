@@ -8,6 +8,8 @@
     - [X] make form for the concrete
     - [X] purchase concrete of the correct type
     - [X] decide on the type of hinges to use and buy jig if necessary
+    - [ ] Buy Cement to fill in the holes on the countertop edge
+    - [ ] Sand countertop after cement cures
     - [ ] prime and paint the cabinets
     - [ ] trim shelves and doors to final size
         - [ ] What should the gap be between cabinet doors so they don't interfere with each other?
