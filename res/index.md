@@ -11,7 +11,7 @@
 
 ## SOLAR
 
-- [solar About Lithium](solar-about-lithium)
+- [Solar About Lithium](solar-about-lithium)
 - [Solar Equipment](solar-equipment)
 - [Solar Panel Facts](solar-panel-facts)
 

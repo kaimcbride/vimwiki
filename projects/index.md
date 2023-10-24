@@ -2,20 +2,20 @@
 
 ## Cabin Related
 
-- [cabin proj](cabin-proj)
-- [hot water system](hot-water-system)
+- [Cabin Proj](cabin-proj)
+- [Hot Water System](hot-water-system)
 
 ## Trucky
 
-- [trucky misc](trucky-misc)
-- [battery mount](battery-mount)
-- [cv axle](cv-axle)
-- [lower radiator hose](lower-radiator-hose)
-- [mouse prevention](mouse-prevention)
-- [rack pinion](rack-pinion)
-- [rear brakes](rear-brakes)
-- [upper control arm](upper-control-arm)
-- [paint the truck](paint-the-truck)
+- [Trucky Misc](trucky-misc)
+- [Battery Mount](battery-mount)
+- [Cv Axle](cv-axle)
+- [Lower Radiator Hose](lower-radiator-hose)
+- [Mouse Prevention](mouse-prevention)
+- [Rack Pinion](rack-pinion)
+- [Rear Brakes](rear-brakes)
+- [Upper Control Arm](upper-control-arm)
+- [Paint The Truck](paint-the-truck)
 
 ## Home Automation
 
@@ -26,9 +26,14 @@
 
 ## Personal
 
-- Make a modified [tote bag](tote-bag)
+- Make a modified [Tote Bag](tote-bag)
 - Make Laptop Stands
     - Find the one the guy on youtube made
+
+## PHOTOGRAPHY
+
+- [Santa Fe Workshop](santa-fe-workshop)
+- 
 ---
 [VimWiki Keybindings](wn.res:VimWiki Notes#KEYBINDINGS)
 
