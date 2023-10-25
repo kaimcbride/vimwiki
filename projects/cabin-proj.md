@@ -8,11 +8,14 @@
     - [X] make form for the concrete
     - [X] purchase concrete of the correct type
     - [X] decide on the type of hinges to use and buy jig if necessary
-    - [ ] Buy Cement to fill in the holes on the countertop edge
+    - [X] Buy Cement to fill in the holes on the countertop edge
+    - [ ] Mix and spread concrete filler on countertop edges
     - [ ] Sand countertop after cement cures
     - [ ] prime and paint the cabinets
-    - [ ] trim shelves and doors to final size
+    - [.] trim shelves and doors to final size
         - [ ] What should the gap be between cabinet doors so they don't interfere with each other?
+        - [ ] Do a test with small pieces of plywood
+        - [X] Order forstner bit 35mm
     - [ ] hang doors
         - [ ] Get auto-push-out magnetic latches
 - [ ] Paint the porch 
@@ -34,6 +37,11 @@
     - [ ] run line to provide hot and cold water
     - [ ] float for hot water tank
 - [ ] North Corbels 
+- [ ] DC Power to Porch:
+    - [ ] 12V line from shop to kitchen area
+    - [ ] 12V line to cabin side of porch for WeMos and router
+    - [ ] Cat 6 extender for line under house up to new router position
+    - [ ] order 12V LED strips
 
 
 ## WINTER 
