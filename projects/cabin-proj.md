@@ -9,7 +9,7 @@
     - [X] purchase concrete of the correct type
     - [X] decide on the type of hinges to use and buy jig if necessary
     - [X] Buy Cement to fill in the holes on the countertop edge
-    - [ ] Mix and spread concrete filler on countertop edges
+    - [X] Mix and spread concrete filler on countertop edges
     - [ ] Sand countertop after cement cures
     - [ ] prime and paint the cabinets
     - [.] trim shelves and doors to final size
@@ -37,11 +37,11 @@
     - [ ] run line to provide hot and cold water
     - [ ] float for hot water tank
 - [ ] North Corbels 
-- [ ] DC Power to Porch:
+- [.] DC Power to Porch:
     - [ ] 12V line from shop to kitchen area
     - [ ] 12V line to cabin side of porch for WeMos and router
     - [ ] Cat 6 extender for line under house up to new router position
-    - [ ] order 12V LED strips
+    - [X] order 12V LED strips
 
 
 ## WINTER 
