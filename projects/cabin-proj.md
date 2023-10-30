@@ -3,14 +3,14 @@
 
 ## FALL 
 
-- [o] Outdoor Kitchen Counter 
+- [O] Outdoor Kitchen Counter 
     - [X] Purchase 5 sheets of 3/4 Ply, 1 sheet of pressure treated, 1 sheet of something skinnier
     - [X] make form for the concrete
     - [X] purchase concrete of the correct type
     - [X] decide on the type of hinges to use and buy jig if necessary
     - [X] Buy Cement to fill in the holes on the countertop edge
     - [X] Mix and spread concrete filler on countertop edges
-    - [ ] Sand countertop after cement cures
+    - [X] Sand countertop after cement cures
     - [ ] prime and paint the cabinets
     - [.] trim shelves and doors to final size
         - [ ] What should the gap be between cabinet doors so they don't interfere with each other?

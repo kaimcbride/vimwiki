@@ -22,6 +22,7 @@
 - [Neorg Notes](neorg-notes)
 - [VimWiki Notes](vimwiki-notes)
 - [Digital Security](digital-security)
+- [Lua](Lua)
 
 ## CABIN INFRASTRUCTURE
 
@@ -31,4 +32,6 @@
 
 - [Linux Laptops](linux-laptops)
 
+## FUN
 
+- curl 'wttr.in/santa+fe?u' for weather in the terminal
