@@ -36,6 +36,7 @@
     - [ ] design method for hanging tank above pipe
     - [ ] run line to provide hot and cold water
     - [ ] float for hot water tank
+- [ ] [Solar Upgrade](solar-upgrade)
 - [ ] North Corbels 
 - [.] DC Power to Porch:
     - [ ] 12V line from shop to kitchen area
