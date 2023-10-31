@@ -23,6 +23,7 @@
 - [VimWiki Notes](vimwiki-notes)
 - [Digital Security](digital-security)
 - [Lua](Lua)
+- [Neovim](neovim)
 
 ## CABIN INFRASTRUCTURE
 

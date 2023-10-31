@@ -17,3 +17,6 @@ access as 'foo', not $foo
 
 ### STRINGS
 
+## NEOVIM PLUGINS
+
+- [How to Write Neovim Plugins in Lua](https://dev.to/2nit/how-to-write-neovim-plugins-in-lua-5cca)

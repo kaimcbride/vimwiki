@@ -4,6 +4,7 @@
 
 - [Cabin Proj](cabin-proj)
 - [Hot Water System](hot-water-system)
+- [Solar Upgrade](solar-upgrade)
 
 ## Trucky
 
