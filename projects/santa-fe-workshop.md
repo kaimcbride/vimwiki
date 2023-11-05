@@ -32,4 +32,6 @@
 [average weather in santa fe](https://www.timeanddate.com/weather/usa/santa-fe/climate)
 
 
+I am now thinking that October would actually be a better month.
+
 
