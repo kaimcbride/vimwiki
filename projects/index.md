@@ -1,4 +1,4 @@
-# PROJECT INDEX
+#  PROJECT INDEX
 
 ## Cabin Related
 
@@ -30,11 +30,14 @@
 - Make a modified [Tote Bag](tote-bag)
 - Make Laptop Stands
     - Find the one the guy on youtube made
+- [Typing Skills](typing-skills)
 
 ## PHOTOGRAPHY
 
 - [Santa Fe Workshop](santa-fe-workshop)
-- 
+- [BW CRIT GROUP](bw-crit-group)
+
+
 ---
 [VimWiki Keybindings](wn.res:VimWiki Notes#KEYBINDINGS)
 

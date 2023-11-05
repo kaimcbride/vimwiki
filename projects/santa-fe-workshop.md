@@ -9,6 +9,7 @@
 - Ghost Ranch and/or other ideas related to Georgia O'Keefe
 - Canyon Road and Aurelia Gallery
 - Access to POG Photo Archives
+    - Palace of the Governors Photo Archives: photoarchives@dca.nm.gov
 - Photo Curators at Art Museum
 - Site Santa Fe
 - Foto Forum Santa Fe
@@ -25,3 +26,10 @@
 - have a van the entire time
 - Anja and Edward would both come out
 - have a follow-up zoom two weeks later to look at everyone's work
+
+## Weather
+
+[average weather in santa fe](https://www.timeanddate.com/weather/usa/santa-fe/climate)
+
+
+

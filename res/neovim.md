@@ -26,6 +26,18 @@
     % move to matching character () {} [] 
     { } Move up and down by paragaph
 
+### in and all selection 
+    The 'i' indicates 'in' the target, not including surrounding chars
+    The 'a' indicates 'around' the target, including surraounding chars, whitespace, etc...
+    ciw/caw - change in word
+    ci"/ca" - change in quotes (with a the quotes are removed)
+    ci[/ca[ - change in square braces
+    cip - change in paragraph
+    
+    This same technique can be used with 'y' to yankd 'd' to delete
+    
+    Powerful when combined with Visual mode and motions. vkap or vjap
+
 ## SCROLLING
     Cntrl-y scroll up by one line
     Cntrl-f forward one screen
@@ -114,6 +126,17 @@
     :r <filename> read in from other file
     :r !<cmd> read in the results of command
 
+### HORIZONTAL AND VERTICAL SPLITS
+    
+    :sp and :vs for horizontal and vertical
+    :sp [cmd] [filename] to execute or edit into the split
+    <C-w>= Make all windows the equal size
+    <C-w>_ Maximize in the vertical
+    <C-w>| Maximize in the horizontal
+    <C-w>r Rotate windows clockwise (R for anticlockwise)
+    <C-w>x Exchange windows
+    
+    Use mouse to resize windows
 
 ## WORKING WITH REGISTERS
     :registers to list out the current values in the regsiters
@@ -168,8 +191,10 @@
 			pattern matches
 	\&		the next line where the previously used substitute
 			pattern matches
+    yap/dap      grab contiguous paragraph including white space
+    yip/dip      grab contiguous paragraph excluding white space
 
-    Range Examples
+ ### Range Examples
     
 	.+3		three lines below the cursor
 	/that/+1	the line below the next line containing "that"
@@ -197,6 +222,7 @@
     
     :* can be used after the Visual mode has ended.
 
+    Shift-V kyap -- grab paragraph above (k) including white space
 
     Some commands can take a suffix count number
     example:
@@ -218,11 +244,17 @@
     <C-w> > Increase width
     Or use the Mouse!!
 
+ this is "grate"
+ No it is "greater"
+ 
+ order[dog] = garbage
 
+## TERMINAL
 
-
-
-
-
-
-
+    :terminal to launch
+    :split term://fish  --:to launch a fish terminal
+    <leader>ter is bound to vsplit
+    
+     <C-\><C-N> to return to normal mode. Note: Capital 'N'
+     
+     
