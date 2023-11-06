@@ -22,7 +22,7 @@
 - [Neorg Notes](neorg-notes)
 - [VimWiki Notes](vimwiki-notes)
 - [Digital Security](digital-security)
-- [Lua](Lua)
+- [Lua](lua)
 - [Neovim](neovim)
 
 ## CABIN INFRASTRUCTURE

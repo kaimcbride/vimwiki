@@ -11,17 +11,20 @@
     - [X] Buy Cement to fill in the holes on the countertop edge
     - [X] Mix and spread concrete filler on countertop edges
     - [X] Sand countertop after cement cures
-    - [ ] prime and paint the cabinets
-    - [.] trim shelves and doors to final size
-        - [ ] What should the gap be between cabinet doors so they don't interfere with each other?
-        - [ ] Do a test with small pieces of plywood
+    - [X] prime and paint the cabinets
+    - [X] trim shelves and doors to final size
+        - [X] What should the gap be between cabinet doors so they don't interfere with each other?
+        - [X] Do a test with small pieces of plywood
         - [X] Order forstner bit 35mm
-    - [ ] hang doors
-        - [ ] Get auto-push-out magnetic latches
+    - [X] hang doors
+        - [X] Get auto-push-out magnetic latches
+    - [ ] make wooden handles for the doors
+    - [X] trim and poly wood to go next to marble
 - [ ] Paint the porch 
     - [ ] Quelle colour? 
-- [ ] Rebuild and test oven 
+- [.] Rebuild and test oven 
     - [ ] extend line to the tank with flare and union 
+    - [X] make trim for oven out of metal or wood (hmmm)
     - [ ] test, test, test
 - [ ] Front Railing 
 - [ ] Driveway Upgrade 
