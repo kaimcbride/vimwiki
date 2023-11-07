@@ -28,8 +28,7 @@
 ## Personal
 
 - Make a modified [Tote Bag](tote-bag)
-- Make Laptop Stands
-    - Find the one the guy on youtube made
+- Make [Laptop Stands](laptop-stands)
 - [Typing Skills](typing-skills)
 
 ## PHOTOGRAPHY

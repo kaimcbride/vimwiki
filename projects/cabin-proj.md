@@ -18,14 +18,16 @@
         - [X] Order forstner bit 35mm
     - [X] hang doors
         - [X] Get auto-push-out magnetic latches
-    - [ ] make wooden handles for the doors
+    - [X] make wooden handles for the doors
+    - [ ] Install wooden handles 
     - [X] trim and poly wood to go next to marble
+    - [ ] Make 4 drawers for the last cabinet
 - [ ] Paint the porch 
     - [ ] Quelle colour? 
-- [.] Rebuild and test oven 
-    - [ ] extend line to the tank with flare and union 
+- [X] Rebuild and test oven 
+    - [X] extend line to the tank with flare and union 
     - [X] make trim for oven out of metal or wood (hmmm)
-    - [ ] test, test, test
+    - [X] test, test, test
 - [ ] Front Railing 
 - [ ] Driveway Upgrade 
     - [ ] mark areas where kali should dig ditches / level out

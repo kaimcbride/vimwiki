@@ -58,4 +58,17 @@ No assignments. Self-directed. Submit photographs you just made or work that you
 for a while. Incorporate changes suggested during a previous meeting and show your progress. Everyone will be motivated knowing that there is an upcoming meeting where your fellow B&W practitioners are there to urge you on. Join our B&W Appreciation Society and sign up for this class today.
 
 
+## Anja's Draft
 
+The Black-and-White Practitioners Feedback Group
+
+Calling all black-and-white photographers and lovers of the monochromatic photograph! 
+Get group feedback on your work in this new class led by unabashed black-and-white enthusiast 
+Kai McBride who will also give short presentations on topics designed to stimulate. 
+This class gathers a group of your peers to meet every two weeks to present your work for 
+feedback — group critique is not a competitive process but rather a method for articulation that 
+leads to greater understanding and mutual discovery. We’ll discuss both technical aspects and 
+conceptual ideas that could be improved. There are no assignments in this 
+class — you’ll be self-directed, showing photographs you just made or work that you have been 
+fine tuning for a while. You’ll be able to incorporate suggested changes and show your progress. 
+See your black-and-white photographs with fresh eyes as we look at it together!
