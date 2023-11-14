@@ -10,5 +10,5 @@ _hint: Use C-Space to create / toggle the TODO items_
     - [ ] Run 24V connection via relay to control hot water tank
     - [ ] experiment with running both elements or just one
 - [ ] come up with a plan on how often to turn it on and run it
-- [ ] order more 8Ga (i think) wire 
+- [X] order more 8Ga (i think) wire 
 - [X] create document describing the points in the plumbing system like the solar system is described

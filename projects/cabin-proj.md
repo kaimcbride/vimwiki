@@ -19,21 +19,20 @@
     - [X] hang doors
         - [X] Get auto-push-out magnetic latches
     - [X] make wooden handles for the doors
-    - [ ] Install wooden handles 
+    - [X] Install wooden handles 
     - [X] trim and poly wood to go next to marble
     - [ ] Make 4 drawers for the last cabinet
+        - [ ] also need two more drawer handles
+        - [ ] how are these going to slide in and out?
 - [ ] Paint the porch 
     - [ ] Quelle colour? 
-- [X] Rebuild and test oven 
-    - [X] extend line to the tank with flare and union 
-    - [X] make trim for oven out of metal or wood (hmmm)
-    - [X] test, test, test
 - [ ] Front Railing 
 - [ ] Driveway Upgrade 
     - [ ] mark areas where kali should dig ditches / level out
 - [ ] Purchase other propane stove for the shop?
 - [ ] [Hot Water Heater](hot-water-system)
 - [ ] Outdoor Shower 
+    - [ ] test to make sure the proposed site is going to work!
     - [ ] borrow Kali's torch and cut the pipe from the concrete
     - [ ] move pipe down the hill
     - [ ] make frame for bricks

@@ -8,7 +8,7 @@ This is a list of changes to make to the solar power system to improve the usage
 - improve use of other solar panels
 - make use of metal backing for heat dissipation
 - have better access to DC power distribution for the shop, porch, and cabin
-- general reorganiztion of the layout of equipment in the box
+- general reorganization of the layout of equipment in the box
 - direct connection from battery to inverter
 - proper sized wire for critical connections
 
@@ -19,7 +19,7 @@ This is a list of changes to make to the solar power system to improve the usage
 - [ ] Make new layout of items in the box 
     - [ ] 2x Charge Controllers
     - [ ] Direct path from battery to the Inverter
-    - [ ] Remove Battery disconnecdt switch
+    - [ ] Remove Battery disconnect switch
     - [ ] Larger 12V fuseblock? Or external fuseblocks elsewhere?
     - [ ] Robust bus bar for 24V + and -
     - [ ] Label Wire Gauge Sizes

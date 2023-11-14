@@ -34,4 +34,23 @@
 
 I am now thinking that October would actually be a better month.
 
+October 5th to 13th is the BAlloon Festival
+
+- Need a van or tell folks to rent a car?
+- 40 min drive to Los Alamos
+- 90 min drive to Taos
+- 100 min drive to the Valles Caldera
+
+How much overhead to bake in vs service we provide
+8 people takes $125 to make $1000
+
+## OTHER WORKSHOPS
+
+- National Geographic winter expedition. All inclusive. $7200 https://www.nationalgeographic.com/expeditions/destinations/north-america/land/yellowstone-winter-photo-tour/
+- Ultimate Travel Photography Portugal. All Inclusive. $4,340 
+- Jim Patterson. Transportation and lodging NOT included. $1895. https://jimpattersonphotography.com/shop/photography-workshops/california-coast-photography-workshop/
+- NEW MEXICO: https://www.eloquentlight.com
+    - Falling for NM: https://www.eloquentlight.com/details-falling-for-new-mexico-2020
+    - White Sands: https://www.eloquentlight.com/great-white-sands-photography-workshop-autumn-2022 
+- List of workshops: https://photography-workshops.directory/photography-workshop-region/us-south-west/
 

@@ -26,13 +26,16 @@
     % move to matching character () {} [] 
     { } Move up and down by paragaph
 
-### in and all selection 
+### IN AND ALL SELECTION 
     The 'i' indicates 'in' the target, not including surrounding chars
     The 'a' indicates 'around' the target, including surraounding chars, whitespace, etc...
     ciw/caw - change in word
     ci"/ca" - change in quotes (with a the quotes are removed)
     ci[/ca[ - change in square braces
     cip - change in paragraph
+    'b' is a synonym for parens, so vib visually select in parens
+    'B' is a synonym for braces, so vib visually select in braces
+    't' for tags <b> This is text inside a tag </b>
     
     This same technique can be used with 'y' to yankd 'd' to delete
     
@@ -56,12 +59,13 @@
 ## SEARCH AND REPLACE
     : s/search/replace/ # only on this line
     : %s/search/replace/ # globally in the file
-    flags: 
-        g multiple accurances on the line
+   flags: 
+        g multiple occurances on the line
         c confirm
         i case insensitive
-    # search backward for item under cursor
+    * and # search forward/backward for item under cursor
     % find the next curly/square bracket on the line
+    g& run previous search and replace in the entire document
 
 ## RUN SHELL COMMANDS
     :! <commands>
@@ -70,7 +74,11 @@
     I jump to beginning of line and Insert
     A jump to end of line and Insert
     gu <movement> # lowercase range
-    gU <movement> # uppercase range : gUw up the word
+    GU <movement> # Uppercase range : gUw up the word
+    gq <movement> # format range. good for reflowing long lines
+    gqq or gqgq # format current line
+    g& run previous search and replace in the entire document
+    ~ upcase letter
     J join the lines
     c <movement> change deletes the range and puts you in edit mode
     xp transpose letters teh-> the 
@@ -256,5 +264,12 @@
     <leader>ter is bound to vsplit
     
      <C-\><C-N> to return to normal mode. Note: Capital 'N'
-     
-     
+  
+## MISC
+
+    Spelling:
+        ]s to jump to next word 
+        z= to show alternatives
+        zg to add word to the dictionary 'z good'
+        :spellr to update that spelling in the whole document
+        
