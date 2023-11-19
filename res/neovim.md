@@ -270,6 +270,7 @@
     Spelling:
         ]s to jump to next word 
         z= to show alternatives
+        1z= to take in the first spelling 
         zg to add word to the dictionary 'z good'
         :spellr to update that spelling in the whole document
         

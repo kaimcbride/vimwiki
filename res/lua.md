@@ -20,3 +20,4 @@ access as 'foo', not $foo
 ## NEOVIM PLUGINS
 
 - [How to Write Neovim Plugins in Lua](https://dev.to/2nit/how-to-write-neovim-plugins-in-lua-5cca)
+- [Write NVIM Plugin using Treesitter and Lua](https://www.youtube.com/watch?v=dPQfsASHNkg)

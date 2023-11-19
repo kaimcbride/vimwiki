@@ -13,6 +13,7 @@
 *Charge Controller:* Trace Engineering 60Amp
 
 *Batteries US L16HC 6v Batteries*
+- [US L16HC Battery](https://www.usbattery.com/us-l16hc-xc2/)
 - Grouping: 2x Batteries in Series to make 12V at 420Ah
 - 2x Groups in Parallel: 12V at 840Ah
 - Capacity given 50% Discharge Rate: 2500W (or 21Amp) usage for 20 hours
@@ -21,3 +22,14 @@
 - Samlex 3000 Watt Inverter/Charger (I installed)
 
 *Cruising Equipment e-meter + battery shunt*
+
+
+## Hours Spent Nov 2023 for emergency outtage
+
+- Saturday: 9:30 - 2:30pm: 5hr + 0.5 afterwards: 5.5hrs total
+- Sunday: 9:30 - 12:30: Stop and Start going over to charge. 2hrs total
+- Thursday: 1hr
+
+8.5hrs total: Paid $630 11/16/2023
+
+
