@@ -8,9 +8,11 @@ Compiled for G. Shomo November 2023
     - Anything by John Szarkowski is worth reading
 - Looking at Photographs
     - Another great MoMA book
-- Understanding Photographs (?)
+- The Nature of Photographs: a Primer
     - Stephen Shore
-- Joel Meyerowitz Picture Book for Kids 
+- Seeing Things
+    - Joel Meyerowitz
+    - aimed at kids, but well done and fun
  
 ## FEWER PHOTOS, MORE WORDS
 
@@ -20,11 +22,16 @@ Compiled for G. Shomo November 2023
     - later S.S. response to O.P. I remember liking this more, maybe
 - Why People Photograph 
     - R. Adams (and other books)
-    - I'm a big fan of some of these
-- book Yoav gave me that I already had. black cover red text
-
+    - I'm a big fan of some of these essays
+- The Complete Essays 1973-1991
+    - Luigi Ghirri
 
 ## DENSE PHOTO NERDS ONLY
 
-- Photography. Villem Flusser 
-- Roland Barthes (but where is the punctum?)
+- Towards a Philosophy of Photography 
+    - Vilem Flusser 
+    - Like Sontag and Barthes, more about talking about their philosophy through the lens of photography
+- Camera Lucida
+    - Roland Barthes 
+    - This one is given too much weight in my opinion
+    - people get carried away with the 'punctum'

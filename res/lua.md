@@ -13,7 +13,7 @@
 foo = "a string"
 foo = 34.5
 
-access as 'foo', not $foo
+Access as 'foo', not $foo
 
 ### STRINGS
 

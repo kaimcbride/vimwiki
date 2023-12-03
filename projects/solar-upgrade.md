@@ -23,10 +23,10 @@ This is a list of changes to make to the solar power system to improve the usage
     - [ ] Larger 12V fuseblock? Or external fuseblocks elsewhere?
     - [ ] Robust bus bar for 24V + and -
     - [ ] Label Wire Gauge Sizes
-    - [ ] Add PV Disconnects outside of box
+    - [ ] Add PV Disconnects 
     - [ ] Size of metal cooling plate needed for essential items?
-- [ ] Order items needed to accomplish new plan
-    - [ ] Wire in appropriate gauges
+- [X] Order items needed to accomplish new plan
+    - [X] Wire in appropriate gauges
 - [ ] Design new box
     - [ ] should it be top or side opening?
     - [ ] size (with room to alter / grow)

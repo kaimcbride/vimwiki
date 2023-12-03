@@ -12,8 +12,8 @@
 | 1/3/2023    | 5 Gal Tank B  | 19.28 |                    |                    |          |                                                        |
 | 2/6/2023    | 10 Gal Tank A | 39.63 | "February 13 2023" | "March 16 2023"    | 31       | Tank hissed and overflowed when I got home I vented it |
 | 3/6/2023    | 10 Gal Tank B | 39.63 | "March 16 2023"    | "April 14 2023"    | 29       |                                                        |
-| 10/30/2023  | 10 Gal Tank A | 38.86 | 10/30/2023         |                    |          | Filled 4 tanks today. 2x10gal 2x5al                    |
-| 10/30/2023  | 10 Gal Tank B | 38.86 |                    |                    |          |                                                        |
+| 10/30/2023  | 10 Gal Tank A | 38.86 | 10/30/2023         | 12/1/2023          | 31       | Filled 4 tanks today. 2x10gal 2x5al                    |
+| 10/30/2023  | 10 Gal Tank B | 38.86 | 12/1/2023          |                    |          |                                                        |
 | 10/30/2023  | 5 Gal Tank A  | 19.43 |                    |                    |          |                                                        |
 | 10/30/2023  | 5 Gal Tank B  | 19.43 |                    |                    |          |                                                        |
 

@@ -17,6 +17,7 @@
 
 ## CLIENT WORK
 - [Solar Jae and Celia](solar-jae-and-celia)
+- [pamela](pamela)
 
 ## CODING RELATED
 - [Neorg Notes](neorg-notes)
@@ -32,6 +33,11 @@
 ## PURCHASE RESEARCH
 
 - [Linux Laptops](linux-laptops)
+
+## PHOTOGRAPHY
+
+- [Readings](readings)
+
 
 ## FUN
 
