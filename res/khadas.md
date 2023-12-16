@@ -40,4 +40,8 @@ ex: turn off the LED
 echo none |sudo tee /sys/class/leds/pwmled/trigger
 values: none; default-on; heartbeat
 
+## Remote SSH access
+ssh root@10.0.0.244
+pass: khadas
+
 

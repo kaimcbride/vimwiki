@@ -14,5 +14,7 @@
     - Heating Element
     - replaceable unit is ___
 - Expansion Tank
-- 
+- Stinger 200Amp Relay
+    - [Stinger Manual](https://cdn.shopify.com/s/files/1/0311/6485/8503/files/spg35.pdf?353)
+    - Needs 10 to 16V DC at 1amp to switch
   

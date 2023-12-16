@@ -1,5 +1,6 @@
 # SANTA FE WORKSHOP 
 
+
 ## SPITBALLING IDEAS
 
 - go to Los Alamos and then on to the Caldera
@@ -53,4 +54,58 @@ How much overhead to bake in vs service we provide
     - Falling for NM: https://www.eloquentlight.com/details-falling-for-new-mexico-2020
     - White Sands: https://www.eloquentlight.com/great-white-sands-photography-workshop-autumn-2022 
 - List of workshops: https://photography-workshops.directory/photography-workshop-region/us-south-west/
+
+
+## Do What When
+
+Day #1: ARRIVE
+- Hanging out at Railyard starting at 5pm (? time ?)
+- Meet in the late afternoon / early evening for drinks
+- Talk about what we will be doing the next few days
+- Informal meeting
+
+Day #2: DOWNTOWN SANTA FE
+- 9:00am: Meet for coffee at Iconik downtown
+    - Introductions
+    - Talk about plans for the coming days
+- 11am: Walk to William Clift Gallery for meeting (to be confirmed)
+    - Alternative 1: Foto Forum Santa Fe (Sage Paisner)
+    - Alternative 2: Radius Books
+- 12:30 / 1pm: LUNCH
+- 2pm - 3:00pm: Photographic walk in downtown Santa Fe / Plaza area
+- 3pm - 4pm: Palace of the Governor Photo Archive (?)
+
+Day #3: FIELD TRIP & PHOTO-EYE BOOKS
+- 9:00am: Meet for coffee at Iconik downtown
+- Get in van(s) after coffee
+- Drive to Photo Eye Books
+- Depart Photo Eye 
+- Pickup lunch in Espanola at El Parasol
+- Drive to Plaza Blanca
+    - Hike; Photograph; Eat
+- Drive back to Santa Fe
+- Free Time to Relax
+- Meet for Group Dinner
+
+Day #4 
+- 8:30am: Meet for Coffee
+- Drive to Madrid on 14 (see unphotographable mountain)
+- Drive to Galisteo: photograph in cemetery and town
+- Drive to Lamy: photograph church and train station
+- Lunch on the mesa. See Kai's House.
+    - How to get food there?
+    - Take orders ahead of time and have it waiting?
+- Walk and photograph on the mesa
+- Drive back to Santa Fe
+
+Day #5: DEPARTURE
+- 8:30am: Meet for Breakfast
+- Discussion and wrap-up
+- Say goodbye and make plans for follow-up Zoom
+
+ONLINE ZOOM MEETING 2 WEEKS LATER
+- people submit their top 20/30 photographs ahead of time
+- show and tell
+- feedback
+
 

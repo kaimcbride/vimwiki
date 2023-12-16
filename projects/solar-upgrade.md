@@ -15,27 +15,27 @@ This is a list of changes to make to the solar power system to improve the usage
 
 ## PLANNING
 
-- [ ] Take photographs and make measurements of all equipment currently in the box
-- [ ] Make new layout of items in the box 
-    - [ ] 2x Charge Controllers
-    - [ ] Direct path from battery to the Inverter
-    - [ ] Remove Battery disconnect switch
-    - [ ] Larger 12V fuseblock? Or external fuseblocks elsewhere?
+- [X] Take photographs and make measurements of all equipment currently in the box
+- [O] Make new layout of items in the box 
+    - [X] 2x Charge Controllers
+    - [X] Direct path from battery to the Inverter
+    - [X] Remove Battery disconnect switch
+    - [X] Larger 12V fuseblock? Or external fuseblocks elsewhere?
     - [ ] Robust bus bar for 24V + and -
-    - [ ] Label Wire Gauge Sizes
-    - [ ] Add PV Disconnects 
-    - [ ] Size of metal cooling plate needed for essential items?
+    - [X] Label Wire Gauge Sizes
+    - [X] Add PV Disconnects 
+    - [X] Size of metal cooling plate needed for essential items?
 - [X] Order items needed to accomplish new plan
     - [X] Wire in appropriate gauges
-- [ ] Design new box
+- [o] Design new box
     - [ ] should it be top or side opening?
-    - [ ] size (with room to alter / grow)
-    - [ ] limitation in the shop on the size or design
-- [ ] Can there be a temporary plan before the new box to get 2nd CC installed
+    - [X] size (with room to alter / grow)
+    - [X] limitation in the shop on the size or design
+- [X] Can there be a temporary plan before the new box to get 2nd CC installed
 - [ ] find better location for the shop solar panels and raise them to 57 degrees for winter
 
 ## ACTIONS
 
-- [ ] make new box 
-- [ ] make placeholders for each item and make sure everything will fit as expected
+- [X] make new box 
+- [X] make placeholders for each item and make sure everything will fit as expected
 - [ ] move shop solar panels 
