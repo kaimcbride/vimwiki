@@ -9,8 +9,10 @@
 
 ## LOG OF BIN FILLING AND EMPTYING
 
-| Date       | Bin      | Action      | Notes                         |
-|------------|----------|-------------|-------------------------------|
-| 3/15/2023  | Left Bin | Started     | New bins built down below     |
-| 12/22/2023 | Left Bin | Pretty Full | Maybe time to switch to right |
+| Date       | Bin           | Action      | Notes                         |
+|------------|---------------|-------------|-------------------------------|
+| 3/15/2022  | Left Bin Old  | Finished    |                               |
+| 1/1/2023   | Right Bin Old | Finished    | Approx Date. Don't recall     |
+| 3/15/2023  | Left Bin      | Started     | New bins built down below     |
+| 12/22/2023 | Left Bin      | Pretty Full | Maybe time to switch to right |
 
