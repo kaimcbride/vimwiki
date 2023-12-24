@@ -30,6 +30,7 @@
 - Make a modified [Tote Bag](tote-bag)
 - Make [Laptop Stands](laptop-stands)
 - [Typing Skills](typing-skills)
+- [Cronolog](cronolog)
 
 ## PHOTOGRAPHY
 
