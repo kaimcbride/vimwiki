@@ -3,6 +3,8 @@
 
 ## FALL 
 
+## WINTER 
+
 - [ ] Outdoor Kitchen Counter 
     - [ ] Make 4 drawers for the last cabinet
         - [ ] also need two more drawer handles
@@ -12,7 +14,7 @@
 - [ ] Front Railing 
 - [ ] Driveway Upgrade 
     - [ ] mark areas where kali should dig ditches / level out
-- [ ] Purchase other propane stove for the shop?
+- [X] Purchase other propane stove for the shop?
 - [ ] [Hot Water Heater](hot-water-system)
 - [ ] Outdoor Shower 
     - [ ] test to make sure the proposed site is going to work!
@@ -30,16 +32,20 @@
     - [ ] 12V line to cabin side of porch for WeMos and router
     - [ ] Cat 6 extender for line under house up to new router position
     - [X] order 12V LED strips
-
-
-## WINTER 
-
-- [ ] West Wall Interior Furniture 
-- [ ] Redesign Kitchen Corner for Berkey 
+- [ ] West Wall Interior Furniture:
+    - [ ] Come up with design
+    - [ ] Toiletries and ???
+- [o] Redesign Kitchen:
+    - [X] New Shelves above window
+    - [ ] Make pull-out drawers for some of the shelves
 - [ ] Finish floor in the workshop 
-- [ ] Bedside Table 
+- [ ] Bedside Table
+- [ ] Figure out Dirty Laundry
+- [ ] Chest at end of bed. Sit on. 
 - [ ] Deck and Stairs for North Exit of Porch 
-- [ ] Floor Trim around edge of cabin
+- [ ] Floor Trim around edge of cabin:
+    - [ ] Square or round?
+    - [ ] What is the max gap that needs to be covered?
 
 
 ## SPRING 

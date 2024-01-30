@@ -35,3 +35,13 @@
 | 5 Tires: BFGoodrich AT KO2                                              | 267040 | 9-22-2023 | Tire Rotation at 275000                                | 1424.0  |
 
 
+## Monthly Checkup Log
+
+Check the mileage each month and see if any actions are needed as a result
+
+
+| Date | Mileage | Notes | Actions to Take |
+|------|---------|-------|-----------------|
+|      |         |       |                 |
+|      |         |       |                 |
+|      |         |       |                 |

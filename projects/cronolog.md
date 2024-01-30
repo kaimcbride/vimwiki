@@ -18,6 +18,7 @@
     - numbered by the NATO alphabet instead of roman numerals
         - Alfa, Beta, Charlie, Delta, Echo, Foxtrot, Gamma, ...
     - Maybe title is "The Alfa Cronolog", "The Beta Cronolog", ...
+    - New thinking of older spelling: CHRONOLOGUE ALFA
 - shouldn't have to number the pages before it is bound, but perhaps number as they get put into the completed box
 - need to make an 'IN' and 'OUT' box or folder or system
     - maybe a staggered two box hanging file. Blank on top, completed underneath

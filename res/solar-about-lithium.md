@@ -34,3 +34,14 @@ Discharge floor sent to 10 to 15% on the BMV Monitor
 ## LOW TEMPERATURE
 
 Battery must not be charged below 32F. Discharge okay.
+
+
+## OFF GRID GARAGE RECOMMENDATIONS
+[MPPT SETTINGS VIDEO](https://www.youtube.com/watch?v=xBu7ScAdKrg)
+He recommends these values:
+- Absorption: 3.45V per cell, 8 cells in our battery, so 27.6V
+- Float: 3.35 per cell, 26.8V
+- EXPERT:
+    - Tail Current: 1.0A
+    - Absorption Time: 2.0hrs
+    - Re-bulk: 1.0V (I might want to change this value)

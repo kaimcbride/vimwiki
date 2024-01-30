@@ -9,7 +9,7 @@ Parallel connection of three pairs: 24V @190 + 24V @190 + 24V @190 == 24V Maximu
 - Max Power at STC:190W
 - Open Circuit Voltage:24.3v
 - Short Circuit Current:10.15A
-- Opitmum Operating Voltage: 20.3V
+- Optimum Operating Voltage: 20.3V
 - Optimum Operating Current: 9.3A
 - Dimensions:60 x 26.8 x 1.4 in (1489 x 670 x 35 mm)
 - Weight:24.2 lbs (11 kg)

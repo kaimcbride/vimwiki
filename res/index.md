@@ -18,6 +18,7 @@
 ## CLIENT WORK
 - [Solar Jae and Celia](solar-jae-and-celia)
 - [pamela](pamela)
+- [debbie](debbie)
 
 ## CODING RELATED
 - [Neorg Notes](neorg-notes)

@@ -16,12 +16,12 @@ This is a list of changes to make to the solar power system to improve the usage
 ## PLANNING
 
 - [X] Take photographs and make measurements of all equipment currently in the box
-- [O] Make new layout of items in the box 
+- [X] Make new layout of items in the box 
     - [X] 2x Charge Controllers
     - [X] Direct path from battery to the Inverter
     - [X] Remove Battery disconnect switch
     - [X] Larger 12V fuseblock? Or external fuseblocks elsewhere?
-    - [ ] Robust bus bar for 24V + and -
+    - [X] Robust bus bar for 24V + and -
     - [X] Label Wire Gauge Sizes
     - [X] Add PV Disconnects 
     - [X] Size of metal cooling plate needed for essential items?
