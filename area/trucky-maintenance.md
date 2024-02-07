@@ -40,8 +40,8 @@
 Check the mileage each month and see if any actions are needed as a result
 
 
-| Date | Mileage | Notes | Actions to Take |
-|------|---------|-------|-----------------|
-|      |         |       |                 |
-|      |         |       |                 |
-|      |         |       |                 |
+| Date        | Mileage | Notes | Actions to Take                                                                                                         |
+|-------------|---------|-------|-------------------------------------------------------------------------------------------------------------------------|
+| feb/26/2024 | 269,569 |       | Oil Change; Check ATF; Check Power Steering; check diff/transfer lube levels; Install Toyota Coolant; Check Rear Brakes |
+|             |         |       |                                                                                                                         |
+|             |         |       |                                                                                                                         |
