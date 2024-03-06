@@ -10,7 +10,8 @@
         - [ ] also need two more drawer handles
         - [ ] how are these going to slide in and out?
 - [ ] Paint the porch 
-    - [ ] Quelle colour? 
+    - [ ] Quelle colour?
+    - [ ] Pine Tar "Paint"
 - [ ] Front Railing 
 - [ ] Driveway Upgrade 
     - [ ] mark areas where kali should dig ditches / level out

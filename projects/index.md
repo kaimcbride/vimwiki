@@ -36,6 +36,7 @@
 
 - [Santa Fe Workshop](santa-fe-workshop)
 - [BW CRIT GROUP](bw-crit-group)
+- [McCrackenClass](McCrackenClass)
 
 
 ---

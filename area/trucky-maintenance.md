@@ -15,6 +15,10 @@
 - SA7626 Air Filter
 
 
+## Coolant and ATF
+
+- ATF is 2.1 quarts and Dexron II compatible
+- Coolant is Toyota Long Life: ~ 9 quarts $67
 
 
 ## Service Log
@@ -33,6 +37,9 @@
 | Front, rear diff and transfer case oil change                           | 265366 | 4-19-2023 | Check at 6 months or 272,800 Change at 295,000 or 2yrs |         |
 | Oil Change + Air Filter                                                 | 266362 | 8-9-2023  | Jan-Feb or 270,000                                     |         |
 | 5 Tires: BFGoodrich AT KO2                                              | 267040 | 9-22-2023 | Tire Rotation at 275000                                | 1424.0  |
+| Oil Change: 5W-30 + Filter, Air Filter                                  | 269666 | 2-8-2024  | 272,666 or August 8th                                  | ~45     |
+| Greased the propeller shaft                                             | 269700 | 2-13-2024 | Every other oil change or 10k miles. only 3 on sliders |         |
+| Drained the Coolant, replaced with Toyota Long Life                     |        |           |                                                        | 67      |
 
 
 ## Monthly Checkup Log
@@ -40,8 +47,8 @@
 Check the mileage each month and see if any actions are needed as a result
 
 
-| Date        | Mileage | Notes | Actions to Take                                                                                                         |
-|-------------|---------|-------|-------------------------------------------------------------------------------------------------------------------------|
-| feb/26/2024 | 269,569 |       | Oil Change; Check ATF; Check Power Steering; check diff/transfer lube levels; Install Toyota Coolant; Check Rear Brakes |
-|             |         |       |                                                                                                                         |
-|             |         |       |                                                                                                                         |
+| Date        | Mileage | Notes   | Actions to Take                                                                                                         |
+|-------------|---------|---------|-------------------------------------------------------------------------------------------------------------------------|
+| feb/26/2024 | 269,569 | Did Oil | Oil Change; Check ATF; Check Power Steering; check diff/transfer lube levels; Install Toyota Coolant; Check Rear Brakes |
+|             |         |         |                                                                                                                         |
+|             |         |         |                                                                                                                         |

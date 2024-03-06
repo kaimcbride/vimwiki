@@ -18,8 +18,8 @@
 | 10/30/2023  | 5 Gal Tank B  | 19.43    |                    |                    |          |                                                        |
 | 12/22/2023  | 10 Gal Tank A | 39.05    | 12/22/2023         | 1/8/2024           | 17       | grey days and cold too                                 |
 | 12/22/2023  | 10 Gal Tank B | 39.05    | 1/9/2024           | 1/24/2024          | 15       | more of the same! Cold too.                            |
-| 01/25/2024  | 10 Gal Tank A | 38.94    | 1/26/2024          | ed                 | dur      | not                                                    |
-| 01/25/2024  | 10 Gal Tank B | 38.94    | sd                 | ed                 | dura     | note                                                   |
+| 01/25/2024  | 10 Gal Tank A | 38.94    | 1/26/2024          | 2/16/2024          | 22       |                                                        |
+| 01/25/2024  | 10 Gal Tank B | 38.94    | 2/16/2024          | ed                 | dura     | note                                                   |
 | 01/25/2024  | 5 Gal Tank C  | 19.47    | sd                 |                    |          | tank from kitchen stove not sure when                  |
 
 
